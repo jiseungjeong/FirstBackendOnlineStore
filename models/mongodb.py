@@ -9,3 +9,5 @@ def conn_mongodb():
     return db
 
 conn_mongodb()
+
+# mongodb compass download 221108 (complete)
