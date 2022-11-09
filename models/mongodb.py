@@ -11,3 +11,4 @@ def conn_mongodb():
 conn_mongodb()
 
 # mongodb compass download 221108 (complete)
+# CRUD learning (complete)
